@@ -69,52 +69,52 @@ const movies = [
     {
         title: 'Bramayugam',
         description: 'Horror/Thriller',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS4xLzEwICAyMS4zSyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00367666-napesghcwf-portrait.jpg',
+        imageUrl: 'https://static.moviecrow.com/gallery/20240216/226218-Bra.jpg',
     },
     {
         title: 'Premalu',
         description: 'Comedy/Romantic',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS4zLzEwICAzNi4ySyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00379479-dzdubkdgum-portrait.jpg',
+        imageUrl: 'https://static.moviecrow.com/gallery/20240213/226119-p29.jpg',
     },
     {
         title: 'Anweshippin Kandethum',
         description: 'Crime/Drama/Thriller',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC45LzEwICAxOC42SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00376031-blcwrdjbah-portrait.jpg',
+        imageUrl: 'https://m.media-amazon.com/images/M/MV5BZTVhN2VmNTgtMjQ0ZC00OTc1LWE2ZGItMjFkYTUzMzcyMTJkXkEyXkFqcGc@._V1_FMjpg_UX958_.jpg',
     },
     {
         title: 'Thundu',
         description: 'Comedy/Drama',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-Ny45LzEwICA4NTEgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00383124-yrrdlstqkp-portrait.jpg',
+        imageUrl: 'https://static.moviecrow.com/gallery/20240202/225504-thundu.jpeg',
     },
     {
         title: 'Abraham Ozler',
         description: 'Crime/Drama/Thriller',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC4zLzEwICAzMy4ySyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00382570-mqvbaumqqf-portrait.jpg',
+        imageUrl: 'https://static.moviecrow.com/gallery/20240111/224464-Abr.jpeg',
     },
     {
         title: 'Siren',
         description: 'Action/Drama',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC40LzEwICAzLjlLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00384518-lyklzskwsx-portrait.jpg',
+        imageUrl: 'https://static.moviecrow.com/gallery/20240123/224877-siren.jpeg',
     },
     {
         title: 'Madame Web',
         description: 'Action/Adventure/Sci-Fi',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-Ni40LzEwICAxMUsgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00376328-kzmlzgbkxa-portrait.jpg',
+        imageUrl: 'https://m.media-amazon.com/images/M/MV5BODViOTZiOTQtOTc4ZC00ZjUxLWEzMjItY2ExMmNlNDliNjE4XkEyXkFqcGc@._V1_FMjpg_UY2075_.jpg',
     },
     {
         title: 'Fighter',
         description: 'Action/Thriller',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC42LzEwICAxNThLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00304730-nukhcznkhx-portrait.jpg',
+        imageUrl: 'https://m.media-amazon.com/images/M/MV5BYmJiYzZhOTktNGIzNy00YjljLWI3ZDgtZGU2YWMzNGQ1YjQ5XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg',
     },
     {
         title: 'Land of Bad',
         description: 'Action/Thriller',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC8xMCAgMjg5IFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00384525-luptzrplgb-portrait.jpg',
+        imageUrl: 'https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_FMjpg_UY12076_.jpg',
     },
     {
         title: 'Teri Baaton Mein Aisa Uljha Jiya',
         description: 'Comedy/Romantic /Sci-Fi',
-        imageUrl: 'https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC4yLzEwICA4NS4ySyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00383266-wrllgjszgu-portrait.jpg',
+        imageUrl: 'https://static.moviecrow.com/gallery/20240118/224797-teri.jpeg',
     },
 ]
 
